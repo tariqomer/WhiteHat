@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhiteRabbit</string>
+    <string name="view_all">view all</string>
+    <string name="discount_label">Discounts For You</string>
+</resources>
